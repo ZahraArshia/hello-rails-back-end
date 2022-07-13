@@ -1,4 +1,5 @@
 # Rails project with a React and Redux front-end with two apps
+linke to react app: https://github.com/ZahraArshia/hello-react-front-end/tree/frontend-features
 
 ## Learning objectives
 - Implement a connection between a Ruby on Rails back-end and React front-end.
