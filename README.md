@@ -1,24 +1,65 @@
-# README
+# Rails project with a React and Redux front-end with two apps
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Learning objectives
+- Implement a connection between a Ruby on Rails back-end and React front-end.
+- Understand pros and cons of different approaches of connecting Ruby on Rails back-end with React front-end.
 
-Things you may want to cover:
 
-* Ruby version
+## Built With
 
-* System dependencies
+- Ruby on Rails
 
-* Configuration
+## Getting Started
 
-* Database creation
+### Prerequisites
+- Ruby
+- Rails gem
+- PostgresQL
 
-* Database initialization
+To get a local copy up and running follow these simple example steps.
 
-* How to run the test suite
+**step1)** cloning the project:
 
-* Services (job queues, cache servers, search engines, etc.)
+`https://github.com/ZahraArshia/budget_management.git`
 
-* Deployment instructions
+**step2)** go to the right folder:
 
-* ...
+`cd budget_management`
+
+**step3)** Install:
+
+`bundle install`
+
+**step4)** run the command:
+
+`rails s`
+
+or
+
+`ruby bin\rails server` (recomended if you are using windows OS)
+
+**Run linters:**
+
+`rubocop`
+
+## Author
+
+**Zahra Aershia**
+
+- GitHub: [@ZahraArshia](https://github.com/ZahraArshia)
+- Twitter: [@ZahraArshia](https://twitter.com/ZahraArshia)
+- LinkedIn: [@ZahraArshia](https://www.linkedin.com/in/ZahraArshia/)
+
+## Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
+
+## License
+
+This project is [MIT](./MIT.md) licensed.
